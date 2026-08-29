@@ -42,4 +42,9 @@ The analysis provides useful insights into customer churn patterns and highlight
 customer satisfaction and retention.
 
 
+##  PROJECT FILES
+- Power BI dashboard screenshots.
+- MTN Customer Churn Analysis Power BI dashboard (Pbix). 
+
+
   
